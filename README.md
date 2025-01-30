@@ -18,7 +18,7 @@ npm install
 npm start
 
 #API Documentation
-Endpoint URL: GET ""
+Endpoint URL: GET "https://hng-stage-zero-dlvt.onrender.com/api/v1/stage0"
   
 #Response Format
 
