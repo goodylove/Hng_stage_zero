@@ -1,4 +1,4 @@
-const getBasicInfo = async (res, req) => {
+const getBasicInfo = async (req, res) => {
   const currentDateTime = new Date().toISOString();
 
   const BasicInfo = {
